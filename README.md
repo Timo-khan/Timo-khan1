@@ -11,8 +11,13 @@ performance-optimized
 
 ![cat-photo](./images/cat-photo.jpg)
 
-<!--new changes -->
+<!-- new changes -->
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |..
+
+<!-- new line -->
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media..
