@@ -10,3 +10,9 @@ performance-optimized
 
 
 ![cat-photo](./images/cat-photo.jpg)
+
+<!--new changes -->
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |..
